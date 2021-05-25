@@ -1,0 +1,16 @@
+C:\projetos\CAD.Series\bin\Debug\net5.0\CAD.Series.exe
+C:\projetos\CAD.Series\bin\Debug\net5.0\CAD.Series.deps.json
+C:\projetos\CAD.Series\bin\Debug\net5.0\CAD.Series.runtimeconfig.json
+C:\projetos\CAD.Series\bin\Debug\net5.0\CAD.Series.runtimeconfig.dev.json
+C:\projetos\CAD.Series\bin\Debug\net5.0\CAD.Series.dll
+C:\projetos\CAD.Series\bin\Debug\net5.0\ref\CAD.Series.dll
+C:\projetos\CAD.Series\bin\Debug\net5.0\CAD.Series.pdb
+C:\projetos\CAD.Series\obj\Debug\net5.0\CAD.Series.csprojAssemblyReference.cache
+C:\projetos\CAD.Series\obj\Debug\net5.0\CAD.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\CAD.Series\obj\Debug\net5.0\CAD.Series.AssemblyInfoInputs.cache
+C:\projetos\CAD.Series\obj\Debug\net5.0\CAD.Series.AssemblyInfo.cs
+C:\projetos\CAD.Series\obj\Debug\net5.0\CAD.Series.csproj.CoreCompileInputs.cache
+C:\projetos\CAD.Series\obj\Debug\net5.0\CAD.Series.dll
+C:\projetos\CAD.Series\obj\Debug\net5.0\ref\CAD.Series.dll
+C:\projetos\CAD.Series\obj\Debug\net5.0\CAD.Series.pdb
+C:\projetos\CAD.Series\obj\Debug\net5.0\CAD.Series.genruntimeconfig.cache
